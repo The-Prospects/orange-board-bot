@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e9a239a-4f8b-4130-9bc5-ad0800e56e8b" name="Default Changelist" comment="" />
+    <list default="true" id="3e9a239a-4f8b-4130-9bc5-ad0800e56e8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +17,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ltzcI7b2XwTDjFlHQwK53PSspJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -56,10 +58,23 @@
       <workItem from="1608431253616" duration="142000" />
       <workItem from="1608431465314" duration="366000" />
       <workItem from="1608431863270" duration="16400000" />
+      <workItem from="1608503554585" duration="1744000" />
     </task>
+    <task id="LOCAL-00001" summary="Slack Bot with mention and 2 slash commands">
+      <created>1608503599357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608503599357</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Slack Bot with mention and 2 slash commands" />
+    <option name="LAST_COMMIT_MESSAGE" value="Slack Bot with mention and 2 slash commands" />
   </component>
 </project>
