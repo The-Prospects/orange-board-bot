@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e9a239a-4f8b-4130-9bc5-ad0800e56e8b" name="Default Changelist" comment="" />
+    <list default="true" id="3e9a239a-4f8b-4130-9bc5-ad0800e56e8b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +58,7 @@
       <workItem from="1608431253616" duration="142000" />
       <workItem from="1608431465314" duration="366000" />
       <workItem from="1608431863270" duration="16400000" />
-      <workItem from="1608503554585" duration="2275000" />
+      <workItem from="1608503554585" duration="2630000" />
     </task>
     <task id="LOCAL-00001" summary="Slack Bot with mention and 2 slash commands">
       <created>1608503599357</created>
@@ -72,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608505607707</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Procfile">
+      <created>1608505990244</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608505990244</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
