@@ -42,5 +42,7 @@ bot.command("/orangeboard", async ({command, ack, say}) => {
 //Slash command [/private]
 bot.command("/private", async ({command, ack, say}) => {
     await ack();
+
     await say('Log in through main page here: '+ 'https://orange-board.herokuapp.com/');
+    await say('You can submit your own url at the top of the page in the field \" Create New Board \"' )
 });
